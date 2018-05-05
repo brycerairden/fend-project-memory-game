@@ -91,11 +91,11 @@ body {
     text-align: center;
     margin: 0 1em 0.2em;
     display: flex;
-    font-size: 1.5em;
+    font-size: 1.3em;
 }
 
 .score-panel .stars,
-.mod-stars {
+.modal-stars .stars {
     margin: 0;
     padding: 0;
     display: inline-flex;
@@ -103,7 +103,7 @@ body {
 }
 
 .score-panel .stars li,
-.mod-stars li {
+.modal-stars .stars li {
     list-style: none;
     display: inline-block;
 }
@@ -123,7 +123,7 @@ body {
     left: 50%;
     top: 0;
     margin-left: -320px;
-    margin-top: 190px;
+    margin-top: 160px;
     width: 640px;
     height: 620px;
     overflow: auto;
@@ -163,9 +163,10 @@ body {
     border: 5px solid #0a121a;
     color: #0a121a;
     padding: 15px 32px;
+    margin: 20px auto;
     text-align: center;
     text-decoration: none;
-    display: inline-block;
+    display: block;
     font-family: "VT323", sans-serif;
     font-size: 2em;
 }

@@ -4,9 +4,9 @@
     <meta charset="utf-8">
     <title>Matching Game</title>
     <meta name="description" content="">
-    <link rel="stylesheet prefetch" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">>
+    <link rel="stylesheet prefetch" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Cabin%7CVT323%7CSaira" rel="stylesheet prefetch">
     <link rel="stylesheet" href="css/app.css">
-    <link href="https://fonts.googleapis.com/css?family=Cabin|VT323|Saira" rel="stylesheet prefetch">
 </head>
 
 <body>
@@ -20,7 +20,7 @@
             <h2>Congratulations!! You Won!</h2>
             <p>You completed the challenge in <span class="modal-moves"></span> moves.</p>
             <p><span class="modal-time"></span></p>
-            <p class="rating">Rating: <ul class="mod-stars"><span class="modal-stars"></span></ul></p>
+            <p class="rating">Rating: <span class="modal-stars"></span></p>
             <button class="modal-restart">Play Again!</button>
         </div>
 
@@ -32,61 +32,61 @@
         <div class="handheld">
 
             <!-- screen of the "Game Boy" with the cards and game controls -->
-            <section class="screen">
+            <div class="screen">
 
                 <ul class="deck">
-                    <li class="card" name="ps4">
+                    <li class="card" data-name="ps4">
                         <img src="img/ps4.svg" class="svg-img ps4" alt="orange ps4 controller">
                     </li>
-                    <li class="card" name="ps4">
+                    <li class="card" data-name="ps4">
                         <img src="img/ps4.svg" class="svg-img ps4" alt="orange ps4 controller">
                     </li>
-                    <li class="card card-invert" name="ps4-white">
+                    <li class="card card-invert" data-name="ps4-white">
                         <img src="img/ps4-white.svg" class="svg-img ps4-white" alt="white ps4 controller">
                     </li>
-                    <li class="card card-invert" name="ps4-white">
+                    <li class="card card-invert" data-name="ps4-white">
                         <img src="img/ps4-white.svg" class="svg-img ps4-white" alt="white ps4 controller">
                     </li>
-                    <li class="card" name="xbone">
+                    <li class="card" data-name="xbone">
                         <img src="img/xbone.svg" class="svg-img xbone" alt="red xbox one controller">
                     </li>
-                    <li class="card" name="xbone">
+                    <li class="card" data-name="xbone">
                         <img src="img/xbone.svg" class="svg-img xbone" alt="red xbox one controller">
                     </li>
-                    <li class="card card-invert" name="xbone-white">
+                    <li class="card card-invert" data-name="xbone-white">
                         <img src="img/xbone-white.svg" class="svg-img xbone-white" alt="white xbox one controller">
                     </li>
-                    <li class="card card-invert" name="xbone-white">
+                    <li class="card card-invert" data-name="xbone-white">
                         <img src="img/xbone-white.svg" class="svg-img xbone-white" alt="white xbox one controller">
                     </li>
-                    <li class="card" name="rift">
+                    <li class="card" data-name="rift">
                         <img src="img/rift.svg" class="svg-img rift" alt="green rift touch controller">
                     </li>
-                    <li class="card" name="rift">
+                    <li class="card" data-name="rift">
                         <img src="img/rift.svg" class="svg-img rift" alt="green rift touch controller">
                     </li>
-                    <li class="card card-invert" name="rift-white">
+                    <li class="card card-invert" data-name="rift-white">
                         <img src="img/rift-white.svg" class="svg-img rift-white" alt="white rift touch controller">
                     </li>
-                    <li class="card card-invert" name="rift-white">
+                    <li class="card card-invert" data-name="rift-white">
                         <img src="img/rift-white.svg" class="svg-img rift-white" alt="white rift touch controller">
                     </li>
-                    <li class="card" name="switch">
+                    <li class="card" data-name="switch">
                         <img src="img/switch.svg" class="svg-img switch" alt="yellow switch controller">
                     </li>
-                    <li class="card" name="switch">
+                    <li class="card" data-name="switch">
                         <img src="img/switch.svg" class="svg-img switch" alt="yellow switch controller">
                     </li>
-                    <li class="card card-invert" name="switch-white">
+                    <li class="card card-invert" data-name="switch-white">
                         <img src="img/switch-white.svg" class="svg-img switch-white" alt="white switch controller">
                     </li>
-                    <li class="card card-invert" name="switch-white">
+                    <li class="card card-invert" data-name="switch-white">
                         <img src="img/switch-white.svg" class="svg-img switch-white" alt="white switch controller">
                     </li>
                 </ul>
 
                 <!-- made section into a flex area -->
-                <section class="score-panel">
+                <div class="score-panel">
                     <ul class="stars flex-item">
                         <li><i class="fa fa-star"></i></li>
                         <li><i class="fa fa-star"></i></li>
@@ -95,24 +95,24 @@
                     <div class="flex-item">
                         <span class="moves">0</span> Moves
                     </div>
-                    <div id="timer flex-item">
+                    <div id="timer" class="flex-item">
                         Timer: <span id="minutes">0</span>:<span id="seconds">00</span>
                     </div>
                     <div class="restart flex-item">
                         <i class="fa fa-repeat"></i>
                     </div>
-                </section>
+                </div>
 
-            </section>
+            </div>
 
             <!-- Branding of the handheld image -->
-            <p class="branding"><span class="company"><strong>Matching </strong><em></span><span class="product">GAME KID</em></p></span>
+            <p class="branding"><span class="company"><strong>Matching </strong></span><span class="product"><em>GAME KID</em></span></p>
 
             <!-- fake controls to visually match the Game Boy design -->
             <!-- TODO - Potentially make controls work, or add Konami code -->
-            <section class="controls">
+            <div class="controls">
                 <div class="flex-item">
-                    <img src="img/dpad.svg">
+                    <img src="img/dpad.svg" alt="video game controller d-pad">
                 </div>
                 <div class="flex-item">
                 </div>
@@ -125,9 +125,9 @@
                 <div class="flex-item">
                 </div>
                 <div class="flex-item">
-                    <img src="img/ab.svg">
+                    <img src="img/ab.svg" alt="video game controller buttons">
                 </div>
-            </section>
+            </div>
 
         </div>
 

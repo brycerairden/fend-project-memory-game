@@ -16,7 +16,7 @@ function deal() {
 	const cardDeck = shuffle(cards);
 	cardDeck.forEach(function(c) {
 		deck.appendChild(c);
-	})
+	});
 }
 
 window.onload = deal();
@@ -55,7 +55,7 @@ function displayCard(clickedCard) {
 
 // Removes the "open" class to hid the card when it is unmatched or the game is reset after a .8 second delay
 function hideCard(card) {
-	setTimeout(function () {card.classList.remove('open')}, 800);
+	setTimeout(function () {card.classList.remove('open');}, 800);
 }
 
 // Array that will hold the 2 open cards for comparision reasons
@@ -72,7 +72,7 @@ let matches = 0;
 // If 2 cards are a match, it removes the "open" class and replaces it with the "match" class while incrementing the number of matches overall
 function matched() {
 	openCards.forEach(function(card) {
-		hideCard(card)
+		hideCard(card);
 	});
 	openCards.forEach(function(card) {
 		card.classList.add("match");
@@ -83,12 +83,12 @@ function matched() {
 // if 2 cards are not a match, return them to their original state to be reused
 function unmatched() {
 	openCards.forEach(function(card) {
-		hideCard(card)
+		hideCard(card);
 	});
 }
 
 // Move counter and display of count
-const moveCount = document.querySelectorAll(".moves")[0]
+const moveCount = document.querySelectorAll(".moves")[0];
 
 function count() {
 	counter++;
@@ -102,14 +102,15 @@ function score() {
 		modal.style.display = "block";
 		document.querySelectorAll(".modal-moves")[0].innerHTML = counter;
 		document.querySelectorAll(".modal-time")[0].innerHTML = `Your time was ${endMinutes} min ${endSeconds} sec.`;
-		const starsEarned = document.querySelectorAll(".stars")[0].innerHTML;
+		const starsEarned = document.querySelectorAll(".stars")[0].outerHTML;
+		console.log(starsEarned);
 		document.querySelectorAll(".modal-stars")[0].innerHTML = starsEarned;
 	}
 }
 
 // Restart function, suffles and resets all values associated with the timer, move counter, star rating, and matches made
 const restart = document.querySelectorAll(".restart")[0];
-const modalRestart = document.querySelectorAll(".modal-restart")[0]
+const modalRestart = document.querySelectorAll(".modal-restart")[0];
 
 function restartGame() {
 	deal();
@@ -121,7 +122,7 @@ function restartGame() {
 	cards.forEach(function(card) {
 		card.classList.remove('open');
 		card.classList.remove('match');
-	})
+	});
 	seconds = 0;
 	minutes = 0;
 	document.querySelector("#seconds").innerHTML = `0${seconds}`;
@@ -161,7 +162,7 @@ function timer() {
 		} else {
 			document.querySelector("#seconds").innerHTML = seconds;
 		}
-	}, 1000)
+	}, 1000);
 }
 
 function stopTimer() {
@@ -192,7 +193,7 @@ deck.addEventListener("click", function(event) {
 		clickedCard = event.target;
 	} else if (event.target.nodeName === "IMG") {
 		clickedCard = event.target.parentElement;
-	};
+	}
 
 	// Below ignores matched, or open, before checking if the timer is on, turning it on if not, compares the cards
 	if ((clickedCard.classList.contains("match") === false) && (clickedCard.classList.contains("open") === false)) {
@@ -203,15 +204,15 @@ deck.addEventListener("click", function(event) {
 		displayCard(clickedCard);
 		openCardList(clickedCard);
 		if (openCards.length === 2) {
-			if(openCards[0].getAttribute("name") === openCards[1].getAttribute("name")) {
+			if(openCards[0].getAttribute("data-name") === openCards[1].getAttribute("data-name")) {
 				matched();
 			} else {
 				unmatched();
-			};
+			}
 			openCards = [];
 			count();
-		};
-	};
+		}
+	}
 
 	stars();
 	score();
