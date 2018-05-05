@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1100 585" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,0,-2302.38)">
+        <g id="Artboard4" transform="matrix(1,0,0,0.851563,149.979,388.071)">
+            <rect x="-149.979" y="2247.99" width="1099.53" height="686.535" style="fill:none;"/>
+            <g id="Oculus-Touch" serif:id="Oculus Touch" transform="matrix(1,0,0,1.17431,-837.836,-468.836)">
+                <g id="Right-Controller" serif:id="Right Controller">
+                    <g id="Thumb-Right" serif:id="Thumb Right">
+                        <g id="Thumb-Right1" serif:id="Thumb Right" transform="matrix(0.702119,0,0,0.702119,474.769,2028.02)">
+                            <circle cx="1413.45" cy="684.264" r="39.01" style="fill:none;stroke:white;stroke-width:11.87px;"/>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-1.77238,-5.04957)">
+                            <path d="M1452.2,2517.11C1451.95,2515.95 1451.81,2514.74 1451.81,2513.5" style="fill:none;stroke:white;stroke-width:6.25px;"/>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-1.77238,-5.04957)">
+                            <path d="M1454.4,2504.44C1457.43,2499.59 1462.82,2496.36 1468.95,2496.36C1470.04,2496.36 1471.1,2496.47 1472.13,2496.66" style="fill:none;stroke:white;stroke-width:6.25px;"/>
+                        </g>
+                    </g>
+                    <g id="Thumb-Right2" serif:id="Thumb Right" transform="matrix(1,0,0,1,-455.552,-1.13798e-13)">
+                        <g id="Thumb-Right3" serif:id="Thumb Right" transform="matrix(0.702119,0,0,0.702119,474.769,2028.02)">
+                            <circle cx="1413.45" cy="684.264" r="39.01" style="fill:none;stroke:white;stroke-width:11.87px;"/>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-1.77238,-5.04957)">
+                            <path d="M1452.2,2517.11C1451.95,2515.95 1451.81,2514.74 1451.81,2513.5" style="fill:none;stroke:white;stroke-width:6.25px;"/>
+                        </g>
+                        <g transform="matrix(1,0,0,1,-1.77238,-5.04957)">
+                            <path d="M1454.4,2504.44C1457.43,2499.59 1462.82,2496.36 1468.95,2496.36C1470.04,2496.36 1471.1,2496.47 1472.13,2496.66" style="fill:none;stroke:white;stroke-width:6.25px;"/>
+                        </g>
+                    </g>
+                    <path id="Face" d="M1337.64,2433.22C1359.11,2413.25 1387.88,2401.03 1419.48,2401.03C1450.98,2401.03 1479.66,2413.18 1501.11,2433.03L1501.2,2433.03C1524.87,2454.99 1539.68,2486.36 1539.68,2521.15L1539.68,2521.2L1539.68,2521.24C1539.68,2555.93 1524.95,2587.22 1501.4,2609.17L1501.31,2609.17C1479.85,2629.14 1451.08,2641.36 1419.48,2641.36C1387.98,2641.36 1359.29,2629.22 1337.85,2609.36L1337.75,2609.36C1314.09,2587.4 1299.27,2556.03 1299.27,2521.24L1299.27,2521.2L1299.27,2521.15C1299.27,2486.45 1314,2455.17 1337.55,2433.22L1337.64,2433.22Z" style="fill:none;stroke:white;stroke-width:8.33px;"/>
+                    <path id="Left-Loop" serif:id="Left Loop" d="M1337.75,2433.03C1314.21,2454.98 1299.27,2486.45 1299.27,2521.15L1299.27,2521.2L1299.27,2521.24C1299.27,2528.22 1299.87,2535.07 1301.01,2541.72L1259.3,2541.72C1242.84,2484.79 1277.65,2433.03 1277.65,2433.03L1337.75,2433.03Z" style="fill:none;stroke:white;stroke-width:8.33px;"/>
+                    <path id="Right-Loop" serif:id="Right Loop" d="M1501.2,2433.03L1702.07,2433.03C1735.68,2494.61 1720.93,2541.62 1720.9,2541.72L1537.94,2541.72C1539.09,2535.07 1539.68,2528.22 1539.68,2521.24L1539.68,2521.2L1539.68,2521.15C1539.68,2486.36 1524.87,2454.99 1501.2,2433.03Z" style="fill:none;stroke:white;stroke-width:8.33px;"/>
+                    <g id="Top-Curve" serif:id="Top Curve" transform="matrix(1.13077,0,0,1.13077,-182.531,-333.381)">
+                        <path d="M1326.42,2446.24C1348.34,2420.95 1380.68,2404.95 1416.74,2404.95C1452.7,2404.95 1484.97,2420.87 1506.88,2446.04" style="fill:none;stroke:white;stroke-width:7.37px;"/>
+                    </g>
+                    <g id="Bottom-Curve" serif:id="Bottom Curve">
+                        <g transform="matrix(1.13077,0,0,1.13077,-182.531,-333.381)">
+                            <path d="M1534.84,2542.59C1528.51,2583.98 1500.9,2618.41 1463.55,2634.35" style="fill:none;stroke:white;stroke-width:7.37px;"/>
+                        </g>
+                        <g id="Bottom-Curve1" serif:id="Bottom Curve" transform="matrix(1.13077,0,0,1.13077,-182.531,-333.381)">
+                            <path d="M1424.9,2643.61C1422.21,2643.8 1419.48,2643.89 1416.74,2643.89C1357.01,2643.89 1307.45,2599.95 1298.66,2542.66" style="fill:none;stroke:white;stroke-width:7.37px;"/>
+                        </g>
+                    </g>
+                    <g id="Touch" transform="matrix(0.77031,0,0,0.77031,253.76,2012.34)">
+                        <circle cx="1413.45" cy="684.264" r="39.01" style="fill:none;stroke:white;stroke-width:10.82px;"/>
+                    </g>
+                    <g id="A">
+                        <g id="A1" serif:id="A" transform="matrix(1.1067,0,0,1.1067,220.908,1847.21)">
+                            <circle cx="1068.41" cy="636.35" r="18.765" style="fill:none;stroke:white;stroke-width:7.53px;"/>
+                        </g>
+                        <g transform="matrix(1.24614,0,0,1.36902,-393,1821.41)">
+                            <path d="M1435.09,539.989L1441.67,525.11L1448.24,539.989" style="fill:none;stroke:white;stroke-width:4.77px;"/>
+                        </g>
+                        <g transform="matrix(1.24614,0,0,1.36902,-392.967,1821.41)">
+                            <path d="M1444.95,534.578L1438.33,534.578" style="fill:none;stroke:white;stroke-width:4.77px;"/>
+                        </g>
+                    </g>
+                    <g id="B">
+                        <g transform="matrix(1.66018,0,0,1.63447,-944.534,1562.97)">
+                            <path d="M1398.99,562.585L1398.99,569.256L1404.29,569.186L1398.99,569.256L1398.99,575.9L1404.29,575.9C1405.88,575.9 1407.67,574.91 1407.67,572.72C1407.67,570.836 1406.05,569.153 1404.29,569.186C1406.06,569.151 1407.03,567.918 1407.03,565.994C1407.03,563.731 1405.78,562.583 1404.29,562.583C1402.81,562.583 1398.99,562.585 1398.99,562.585Z" style="fill:none;stroke:white;stroke-width:3.79px;"/>
+                        </g>
+                        <g id="B1" serif:id="B" transform="matrix(1.1067,0,0,1.1067,201.571,1789.59)">
+                            <circle cx="1068.41" cy="636.35" r="18.765" style="fill:none;stroke:white;stroke-width:7.53px;"/>
+                        </g>
+                    </g>
+                    <g id="Rift">
+                        <g id="Rift1" serif:id="Rift" transform="matrix(2.55806e-17,0.417763,-0.453601,2.77751e-17,2325.84,2129)">
+                            <path d="M1093.96,1905.97C1093.96,1900.39 1098.49,1895.86 1104.07,1895.86C1109.65,1895.86 1114.18,1900.39 1114.18,1905.97L1114.18,1918.92C1114.18,1924.5 1109.65,1929.03 1104.07,1929.03C1098.49,1929.03 1093.96,1924.5 1093.96,1918.92L1093.96,1905.97Z" style="fill:none;stroke:white;stroke-width:14.33px;"/>
+                        </g>
+                        <g id="Rift-Button" serif:id="Rift Button" transform="matrix(0.959681,0,0,0.959681,433.025,1979.54)">
+                            <circle cx="1068.41" cy="636.35" r="18.765" style="fill:none;stroke:white;stroke-width:8.68px;"/>
+                        </g>
+                    </g>
+                    <path id="Handle" d="M1524.52,2606.7C1524.52,2606.7 1498.38,2745.87 1477.2,2781.74C1456.03,2817.62 1394.09,2858.77 1376.63,2772.92C1371.89,2749.67 1376.63,2707.61 1380.98,2679.57" style="fill:none;stroke:white;stroke-width:8.33px;"/>
+                    <path id="Trigger" d="M1393.34,2654.31C1394.01,2657.32 1394.04,2661.44 1393.25,2665.87C1391.75,2674.34 1387.86,2680.74 1384.56,2680.16C1384.4,2680.13 1384.24,2680.08 1384.09,2680.02L1354.44,2671.63L1354.44,2671.62C1354.37,2671.61 1354.29,2671.6 1354.22,2671.59C1350.92,2671.01 1349.46,2663.66 1350.96,2655.19C1352.15,2648.51 1354.82,2643.11 1357.52,2641.42" style="fill:none;stroke:white;stroke-width:8.33px;"/>
+                    <g id="Trigger-Detail" serif:id="Trigger Detail">
+                        <g transform="matrix(0.984669,0.174431,-0.174431,0.984669,480.389,-197.34)">
+                            <path d="M1364.16,2643.87C1365.04,2645.33 1365.77,2647.37 1366.25,2649.76" style="fill:none;stroke:white;stroke-width:6.25px;"/>
+                        </g>
+                        <g transform="matrix(0.984669,0.174431,-0.174431,0.984669,480.389,-197.34)">
+                            <path d="M1366.9,2655.41C1366.92,2655.91 1366.93,2656.43 1366.93,2656.94C1366.93,2660.87 1366.37,2664.46 1365.43,2667.2" style="fill:none;stroke:white;stroke-width:6.25px;"/>
+                        </g>
+                    </g>
+                    <g id="Handle-Split" serif:id="Handle Split">
+                        <path d="M1413.23,2823L1417.02,2803.95" style="fill:none;stroke:white;stroke-width:6.25px;"/>
+                        <path d="M1419.67,2790.61L1436.8,2704.52" style="fill:none;stroke:white;stroke-width:6.25px;"/>
+                        <path d="M1438.05,2698.22L1439.25,2692.2" style="fill:none;stroke:white;stroke-width:6.25px;"/>
+                        <path d="M1443.31,2671.76L1450.1,2637.6" style="fill:none;stroke:white;stroke-width:6.25px;"/>
+                    </g>
+                </g>
+                <g id="Left-Controller" serif:id="Left Controller" transform="matrix(-1,0,0,1,2482.03,0)">
+                    <path id="Face1" serif:id="Face" d="M1337.64,2433.22C1359.11,2413.25 1387.88,2401.03 1419.48,2401.03C1450.98,2401.03 1479.66,2413.18 1501.11,2433.03L1501.2,2433.03C1524.87,2454.99 1539.68,2486.36 1539.68,2521.15L1539.68,2521.2L1539.68,2521.24C1539.68,2555.93 1524.95,2587.22 1501.4,2609.17L1501.31,2609.17C1479.85,2629.14 1451.08,2641.36 1419.48,2641.36C1387.98,2641.36 1359.29,2629.22 1337.85,2609.36L1337.75,2609.36C1314.09,2587.4 1299.27,2556.03 1299.27,2521.24L1299.27,2521.2L1299.27,2521.15C1299.27,2486.45 1314,2455.17 1337.55,2433.22L1337.64,2433.22Z" style="fill:none;stroke:white;stroke-width:8.33px;"/>
+                    <path id="Right-Loop1" serif:id="Right Loop" d="M1337.75,2433.03C1314.21,2454.98 1299.27,2486.45 1299.27,2521.15L1299.27,2521.2L1299.27,2521.24C1299.27,2528.22 1299.87,2535.07 1301.01,2541.72L1259.3,2541.72C1242.84,2484.79 1277.65,2433.03 1277.65,2433.03L1337.75,2433.03Z" style="fill:none;stroke:white;stroke-width:8.33px;"/>
+                    <path id="Left-Loop1" serif:id="Left Loop" d="M1501.2,2433.03L1702.07,2433.03C1735.68,2494.61 1720.93,2541.62 1720.9,2541.72L1537.94,2541.72C1539.09,2535.07 1539.68,2528.22 1539.68,2521.24L1539.68,2521.2L1539.68,2521.15C1539.68,2486.36 1524.87,2454.99 1501.2,2433.03Z" style="fill:none;stroke:white;stroke-width:8.33px;"/>
+                    <g id="Top-Curve1" serif:id="Top Curve" transform="matrix(1.13077,0,0,1.13077,-182.531,-333.381)">
+                        <path d="M1326.42,2446.24C1348.34,2420.95 1380.68,2404.95 1416.74,2404.95C1452.7,2404.95 1484.97,2420.87 1506.88,2446.04" style="fill:none;stroke:white;stroke-width:7.37px;"/>
+                    </g>
+                    <g id="Bottom-Curve2" serif:id="Bottom Curve">
+                        <g transform="matrix(1.13077,0,0,1.13077,-182.531,-333.381)">
+                            <path d="M1534.84,2542.59C1528.51,2583.98 1500.9,2618.41 1463.55,2634.35" style="fill:none;stroke:white;stroke-width:7.37px;"/>
+                        </g>
+                        <g id="Bottom-Curve3" serif:id="Bottom Curve" transform="matrix(1.13077,0,0,1.13077,-182.531,-333.381)">
+                            <path d="M1424.9,2643.61C1422.21,2643.8 1419.48,2643.89 1416.74,2643.89C1357.01,2643.89 1307.45,2599.95 1298.66,2542.66" style="fill:none;stroke:white;stroke-width:7.37px;"/>
+                        </g>
+                    </g>
+                    <g id="Touch1" serif:id="Touch" transform="matrix(0.77031,0,0,0.77031,253.76,2012.34)">
+                        <circle cx="1413.45" cy="684.264" r="39.01" style="fill:none;stroke:white;stroke-width:10.82px;"/>
+                    </g>
+                    <g id="X">
+                        <g id="X1" serif:id="X" transform="matrix(1.1067,0,0,1.1067,220.908,1847.21)">
+                            <circle cx="1068.41" cy="636.35" r="18.765" style="fill:none;stroke:white;stroke-width:7.53px;"/>
+                        </g>
+                        <g transform="matrix(1.40569,0,0,1.40569,-567.965,1854.4)">
+                            <path d="M1407.89,488.642L1396.82,503.133" style="fill:none;stroke:white;stroke-width:4.45px;"/>
+                        </g>
+                        <g transform="matrix(-1.40569,0,0,1.40569,3374.59,1854.4)">
+                            <path d="M1407.89,488.642L1396.82,503.133" style="fill:none;stroke:white;stroke-width:4.45px;"/>
+                        </g>
+                    </g>
+                    <g id="Y">
+                        <g id="Y1" serif:id="Y" transform="matrix(1.1067,0,0,1.1067,201.571,1789.59)">
+                            <circle cx="1068.41" cy="636.35" r="18.765" style="fill:none;stroke:white;stroke-width:7.53px;"/>
+                        </g>
+                        <g transform="matrix(1.34136,0,0,1.42044,-444.547,1736.93)">
+                            <path d="M1357.9,525.426L1363.18,532.549L1363.18,540.305" style="fill:none;stroke:white;stroke-width:4.52px;"/>
+                        </g>
+                        <g transform="matrix(-1.34136,0,0,1.42044,3212.49,1736.93)">
+                            <path d="M1357.9,525.426L1363.18,532.549L1363.18,540.305" style="fill:none;stroke:white;stroke-width:4.52px;"/>
+                        </g>
+                    </g>
+                    <g id="Menu">
+                        <g id="Rift-Button1" serif:id="Rift Button" transform="matrix(0.959681,0,0,0.959681,433.025,1979.54)">
+                            <circle cx="1068.41" cy="636.35" r="18.765" style="fill:none;stroke:white;stroke-width:8.68px;"/>
+                        </g>
+                        <g id="Rift2" serif:id="Rift" transform="matrix(-1.82031e-19,-0.00297279,-0.40232,2.4635e-17,2227.77,2586.13)">
+                            <path d="M1093.96,1905.97C1093.96,1900.39 1098.49,1895.86 1104.07,1895.86C1109.65,1895.86 1114.18,1900.39 1114.18,1905.97L1114.18,1918.92C1114.18,1924.5 1109.65,1929.03 1104.07,1929.03C1098.49,1929.03 1093.96,1924.5 1093.96,1918.92L1093.96,1905.97Z" style="fill:none;stroke:white;stroke-width:21.97px;"/>
+                        </g>
+                        <g id="Rift3" serif:id="Rift" transform="matrix(-1.82031e-19,-0.00297279,-0.40232,2.4635e-17,2227.77,2593.52)">
+                            <path d="M1093.96,1905.97C1093.96,1900.39 1098.49,1895.86 1104.07,1895.86C1109.65,1895.86 1114.18,1900.39 1114.18,1905.97L1114.18,1918.92C1114.18,1924.5 1109.65,1929.03 1104.07,1929.03C1098.49,1929.03 1093.96,1924.5 1093.96,1918.92L1093.96,1905.97Z" style="fill:none;stroke:white;stroke-width:21.97px;"/>
+                        </g>
+                        <g id="Rift4" serif:id="Rift" transform="matrix(-1.82031e-19,-0.00297279,-0.40232,2.4635e-17,2227.77,2600.9)">
+                            <path d="M1093.96,1905.97C1093.96,1900.39 1098.49,1895.86 1104.07,1895.86C1109.65,1895.86 1114.18,1900.39 1114.18,1905.97L1114.18,1918.92C1114.18,1924.5 1109.65,1929.03 1104.07,1929.03C1098.49,1929.03 1093.96,1924.5 1093.96,1918.92L1093.96,1905.97Z" style="fill:none;stroke:white;stroke-width:21.97px;"/>
+                        </g>
+                    </g>
+                    <path id="Handle1" serif:id="Handle" d="M1524.52,2606.7C1524.52,2606.7 1498.38,2745.87 1477.2,2781.74C1456.03,2817.62 1394.09,2858.77 1376.63,2772.92C1371.89,2749.67 1376.63,2707.61 1380.98,2679.57" style="fill:none;stroke:white;stroke-width:8.33px;"/>
+                    <path id="Trigger1" serif:id="Trigger" d="M1393.34,2654.31C1394.01,2657.32 1394.04,2661.44 1393.25,2665.87C1391.75,2674.34 1387.86,2680.74 1384.56,2680.16C1384.4,2680.13 1384.24,2680.08 1384.09,2680.02L1354.44,2671.63L1354.44,2671.62C1354.37,2671.61 1354.29,2671.6 1354.22,2671.59C1350.92,2671.01 1349.46,2663.66 1350.96,2655.19C1352.15,2648.51 1354.82,2643.11 1357.52,2641.42" style="fill:none;stroke:white;stroke-width:8.33px;"/>
+                    <g id="Trigger-Detail1" serif:id="Trigger Detail">
+                        <g transform="matrix(0.984669,0.174431,-0.174431,0.984669,480.389,-197.34)">
+                            <path d="M1364.16,2643.87C1365.04,2645.33 1365.77,2647.37 1366.25,2649.76" style="fill:none;stroke:white;stroke-width:6.25px;"/>
+                        </g>
+                        <g transform="matrix(0.984669,0.174431,-0.174431,0.984669,480.389,-197.34)">
+                            <path d="M1366.9,2655.41C1366.92,2655.91 1366.93,2656.43 1366.93,2656.94C1366.93,2660.87 1366.37,2664.46 1365.43,2667.2" style="fill:none;stroke:white;stroke-width:6.25px;"/>
+                        </g>
+                    </g>
+                    <g id="Handle-Split1" serif:id="Handle Split">
+                        <path d="M1413.23,2823L1420.01,2788.91" style="fill:none;stroke:white;stroke-width:6.25px;"/>
+                        <path d="M1425.81,2759.78L1439.4,2691.42" style="fill:none;stroke:white;stroke-width:6.25px;"/>
+                        <g transform="matrix(1,0,0,1,-15.1759,76.4214)">
+                            <path d="M1438.05,2698.22L1439.25,2692.2" style="fill:none;stroke:white;stroke-width:6.25px;"/>
+                        </g>
+                        <path d="M1442.21,2677.29L1450.1,2637.6" style="fill:none;stroke:white;stroke-width:6.25px;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

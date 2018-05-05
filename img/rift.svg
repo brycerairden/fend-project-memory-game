@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1001 471" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,0,-2322.81)">
+        <g id="Artboard4" transform="matrix(0.909861,0,0,0.685231,136.46,782.417)">
+            <rect x="-149.979" y="2247.99" width="1099.53" height="686.535" style="fill:none;"/>
+            <g id="Oculus-Touch" serif:id="Oculus Touch" transform="matrix(1.09907,0,0,1.45936,-965.182,-1210.06)">
+                <g id="Right-Controller" serif:id="Right Controller">
+                    <g id="Thumb-Right" serif:id="Thumb Right">
+                        <g id="Thumb-Right1" serif:id="Thumb Right" transform="matrix(0.702119,0,0,0.702119,474.769,2028.02)">
+                            <circle cx="1413.45" cy="684.264" r="39.01" style="fill:none;stroke:rgb(18,161,69);stroke-width:23.74px;"/>
+                        </g>
+                        <g transform="matrix(1,0,0,1,7.22762,-5.04957)">
+                            <path d="M1452.2,2517.11C1451.95,2515.95 1451.81,2514.74 1451.81,2513.5" style="fill:none;stroke:rgb(18,161,69);stroke-width:16.67px;"/>
+                        </g>
+                    </g>
+                    <g id="Face" transform="matrix(1.12391,0,0,1.12391,-175.894,-312.414)">
+                        <path d="M1337.64,2433.22C1359.11,2413.25 1387.88,2401.03 1419.48,2401.03C1450.98,2401.03 1479.66,2413.18 1501.11,2433.03L1501.2,2433.03C1524.87,2454.99 1539.68,2486.36 1539.68,2521.15L1539.68,2521.2L1539.68,2521.24C1539.68,2555.93 1524.95,2587.22 1501.4,2609.17L1501.31,2609.17C1479.85,2629.14 1451.08,2641.36 1419.48,2641.36C1387.98,2641.36 1359.29,2629.22 1337.85,2609.36L1337.75,2609.36C1314.09,2587.4 1299.27,2556.03 1299.27,2521.24L1299.27,2521.2L1299.27,2521.15C1299.27,2486.45 1314,2455.17 1337.55,2433.22L1337.64,2433.22Z" style="fill:none;stroke:rgb(18,161,69);stroke-width:14.83px;"/>
+                    </g>
+                    <g id="Left-Loop" serif:id="Left Loop" transform="matrix(1,0,0,1,687.857,46.7558)">
+                        <path d="M629.24,2386.28C608.851,2409.94 596.518,2440.74 596.518,2474.39L596.518,2474.44L596.518,2474.49C596.518,2481.45 597.046,2488.29 598.064,2494.97L571.448,2494.97C554.979,2438.03 589.798,2386.28 589.798,2386.28L629.24,2386.28Z" style="fill:none;stroke:rgb(18,161,69);stroke-width:16.67px;"/>
+                    </g>
+                    <g id="Right-Loop" serif:id="Right Loop" transform="matrix(1,0,0,1,687.857,46.7558)">
+                        <path d="M833.999,2386.28L1014.22,2386.28C1047.79,2447.78 1033.1,2494.77 1033.04,2494.97L865.175,2494.97C866.193,2488.29 866.721,2481.45 866.721,2474.49L866.721,2474.44L866.721,2474.39C866.721,2440.74 854.388,2409.94 833.999,2386.28Z" style="fill:none;stroke:rgb(18,161,69);stroke-width:16.67px;"/>
+                    </g>
+                    <g id="Top-Curve" serif:id="Top Curve" transform="matrix(1.13077,0,0,1.13077,-182.531,-333.381)">
+                        <path d="M1326.42,2446.24C1348.34,2420.95 1380.68,2404.95 1416.74,2404.95C1452.7,2404.95 1484.97,2420.87 1506.88,2446.04" style="fill:none;stroke:rgb(18,161,69);stroke-width:14.74px;"/>
+                    </g>
+                    <g id="Bottom-Curve" serif:id="Bottom Curve">
+                        <g transform="matrix(1.13077,0,0,1.13077,-182.531,-333.381)">
+                            <path d="M1534.84,2542.59C1528.51,2583.98 1500.9,2618.41 1463.55,2634.35" style="fill:none;stroke:rgb(18,161,69);stroke-width:14.74px;"/>
+                        </g>
+                        <g id="Bottom-Curve1" serif:id="Bottom Curve" transform="matrix(1.13077,0,0,1.13077,-182.531,-333.381)">
+                            <path d="M1424.9,2643.61C1422.21,2643.8 1419.48,2643.89 1416.74,2643.89C1357.01,2643.89 1307.45,2599.95 1298.66,2542.66" style="fill:none;stroke:rgb(18,161,69);stroke-width:14.74px;"/>
+                        </g>
+                    </g>
+                    <g id="Touch" transform="matrix(0.77031,0,0,0.77031,253.76,2012.34)">
+                        <circle cx="1413.45" cy="684.264" r="39.01" style="fill:none;stroke:rgb(18,161,69);stroke-width:21.64px;"/>
+                    </g>
+                    <g transform="matrix(1.1067,0,0,1.1067,220.908,1847.21)">
+                        <g id="A">
+                            <circle id="A1" serif:id="A" cx="1068.41" cy="636.35" r="18.765" style="fill:none;stroke:rgb(18,161,69);stroke-width:15.06px;"/>
+                        </g>
+                    </g>
+                    <g transform="matrix(1.1067,0,0,1.1067,201.571,1789.59)">
+                        <g id="B">
+                            <circle id="B1" serif:id="B" cx="1068.41" cy="636.35" r="18.765" style="fill:none;stroke:rgb(18,161,69);stroke-width:15.06px;"/>
+                        </g>
+                    </g>
+                    <g transform="matrix(0.959681,0,0,0.959681,433.025,1979.54)">
+                        <g id="Rift">
+                            <circle id="Rift-Button" serif:id="Rift Button" cx="1068.41" cy="636.35" r="18.765" style="fill:none;stroke:rgb(18,161,69);stroke-width:17.37px;"/>
+                        </g>
+                    </g>
+                    <path id="Handle" d="M1524.52,2606.7C1524.52,2606.7 1498.38,2745.87 1477.2,2781.74C1456.03,2817.62 1394.09,2858.77 1376.63,2772.92C1371.89,2749.67 1376.63,2707.61 1380.98,2679.57" style="fill:none;stroke:rgb(18,161,69);stroke-width:16.67px;"/>
+                    <path id="Trigger" d="M1393.34,2654.31C1394.01,2657.32 1394.04,2661.44 1393.25,2665.87C1391.75,2674.34 1387.86,2680.74 1384.56,2680.16C1384.4,2680.13 1384.24,2680.08 1384.09,2680.02L1354.44,2671.63L1354.44,2671.62C1354.37,2671.61 1354.29,2671.6 1354.22,2671.59C1350.92,2671.01 1349.46,2663.66 1350.96,2655.19C1352.15,2648.51 1354.82,2643.11 1357.52,2641.42" style="fill:none;stroke:rgb(18,161,69);stroke-width:16.67px;"/>
+                    <g id="Handle-Split" serif:id="Handle Split">
+                        <path d="M1413.23,2823L1417.02,2803.95" style="fill:none;stroke:rgb(18,161,69);stroke-width:16.67px;"/>
+                        <path d="M1426.78,2754.89L1433.81,2719.54" style="fill:none;stroke:rgb(18,161,69);stroke-width:16.67px;"/>
+                        <path d="M1438.05,2698.22L1439.25,2692.2" style="fill:none;stroke:rgb(18,161,69);stroke-width:16.67px;"/>
+                    </g>
+                </g>
+                <g id="Left-Controller" serif:id="Left Controller" transform="matrix(-1,0,0,1,2482.03,0)">
+                    <g id="Face1" serif:id="Face" transform="matrix(-1.12391,0,0,1.12391,3014.75,-312.497)">
+                        <path d="M1337.64,2433.22C1359.11,2413.25 1387.88,2401.03 1419.48,2401.03C1450.98,2401.03 1479.66,2413.18 1501.11,2433.03L1501.2,2433.03C1524.87,2454.99 1539.68,2486.36 1539.68,2521.15L1539.68,2521.2L1539.68,2521.24C1539.68,2555.93 1524.95,2587.22 1501.4,2609.17L1501.31,2609.17C1479.85,2629.14 1451.08,2641.36 1419.48,2641.36C1387.98,2641.36 1359.29,2629.22 1337.85,2609.36L1337.75,2609.36C1314.09,2587.4 1299.27,2556.03 1299.27,2521.24L1299.27,2521.2L1299.27,2521.15C1299.27,2486.45 1314,2455.17 1337.55,2433.22L1337.64,2433.22Z" style="fill:none;stroke:rgb(18,161,69);stroke-width:14.83px;"/>
+                    </g>
+                    <g id="Right-Loop1" serif:id="Right Loop" transform="matrix(-1,0,0,1,1794.17,46.7558)">
+                        <path d="M516.517,2386.28C516.572,2386.36 551.323,2438.08 534.867,2494.97L508.339,2494.97C509.365,2488.26 509.897,2481.39 509.897,2474.4L509.897,2474.36L509.897,2474.31C509.897,2440.69 497.593,2409.93 477.247,2386.28L516.517,2386.28Z" style="fill:none;stroke:rgb(18,161,69);stroke-width:16.67px;"/>
+                    </g>
+                    <g id="Left-Loop1" serif:id="Left Loop" transform="matrix(-1,0,0,1,1794.17,46.7558)">
+                        <path d="M272.345,2386.28C251.998,2409.93 239.694,2440.69 239.694,2474.31L239.695,2474.36L239.694,2474.4C239.694,2481.39 240.227,2488.26 241.253,2494.97L73.276,2494.97C73.245,2494.87 58.49,2447.85 92.097,2386.28L272.345,2386.28Z" style="fill:none;stroke:rgb(18,161,69);stroke-width:16.67px;"/>
+                    </g>
+                    <g id="Top-Curve1" serif:id="Top Curve" transform="matrix(1.13077,0,0,1.13077,-182.531,-333.381)">
+                        <path d="M1326.42,2446.24C1348.34,2420.95 1380.68,2404.95 1416.74,2404.95C1452.7,2404.95 1484.97,2420.87 1506.88,2446.04" style="fill:none;stroke:rgb(18,161,69);stroke-width:14.74px;"/>
+                    </g>
+                    <g id="Bottom-Curve2" serif:id="Bottom Curve">
+                        <g transform="matrix(1.13077,0,0,1.13077,-182.531,-333.381)">
+                            <path d="M1534.84,2542.59C1528.51,2583.98 1500.9,2618.41 1463.55,2634.35" style="fill:none;stroke:rgb(18,161,69);stroke-width:14.74px;"/>
+                        </g>
+                        <g id="Bottom-Curve3" serif:id="Bottom Curve" transform="matrix(1.13077,0,0,1.13077,-182.531,-333.381)">
+                            <path d="M1409.86,2643.69C1353.24,2640.47 1307.11,2597.74 1298.66,2542.66" style="fill:none;stroke:rgb(18,161,69);stroke-width:14.74px;"/>
+                        </g>
+                    </g>
+                    <g id="Touch1" serif:id="Touch" transform="matrix(0.77031,0,0,0.77031,253.76,2012.34)">
+                        <circle cx="1413.45" cy="684.264" r="39.01" style="fill:none;stroke:rgb(18,161,69);stroke-width:21.64px;"/>
+                    </g>
+                    <g id="Thumb-Right2" serif:id="Thumb Right" transform="matrix(-1,0,0,1,2937.58,-1.13687e-13)">
+                        <g id="Thumb-Right3" serif:id="Thumb Right" transform="matrix(0.702119,0,0,0.702119,474.769,2028.02)">
+                            <circle cx="1413.45" cy="684.264" r="39.01" style="fill:none;stroke:rgb(18,161,69);stroke-width:23.74px;"/>
+                        </g>
+                        <g transform="matrix(1,0,0,1,7.22762,-5.04957)">
+                            <path d="M1452.2,2517.11C1451.95,2515.95 1451.81,2514.74 1451.81,2513.5" style="fill:none;stroke:rgb(18,161,69);stroke-width:16.67px;"/>
+                        </g>
+                    </g>
+                    <g transform="matrix(1.1067,0,0,1.1067,220.908,1847.21)">
+                        <g id="X">
+                            <circle id="X1" serif:id="X" cx="1068.41" cy="636.35" r="18.765" style="fill:none;stroke:rgb(18,161,69);stroke-width:15.06px;"/>
+                        </g>
+                    </g>
+                    <g transform="matrix(1.1067,0,0,1.1067,201.571,1789.59)">
+                        <g id="Y">
+                            <circle id="Y1" serif:id="Y" cx="1068.41" cy="636.35" r="18.765" style="fill:none;stroke:rgb(18,161,69);stroke-width:15.06px;"/>
+                        </g>
+                    </g>
+                    <g transform="matrix(0.959681,0,0,0.959681,433.025,1979.54)">
+                        <g id="Menu">
+                            <circle id="Rift-Button1" serif:id="Rift Button" cx="1068.41" cy="636.35" r="18.765" style="fill:none;stroke:rgb(18,161,69);stroke-width:17.37px;"/>
+                        </g>
+                    </g>
+                    <path id="Handle1" serif:id="Handle" d="M1524.52,2606.7C1524.52,2606.7 1498.38,2745.87 1477.2,2781.74C1456.03,2817.62 1394.09,2858.77 1376.63,2772.92C1371.89,2749.67 1376.63,2707.61 1380.98,2679.57" style="fill:none;stroke:rgb(18,161,69);stroke-width:16.67px;"/>
+                    <path id="Trigger1" serif:id="Trigger" d="M1393.34,2654.31C1394.01,2657.32 1394.04,2661.44 1393.25,2665.87C1391.75,2674.34 1387.86,2680.74 1384.56,2680.16C1384.4,2680.13 1384.24,2680.08 1384.09,2680.02L1354.44,2671.63L1354.44,2671.62C1354.37,2671.61 1354.29,2671.6 1354.22,2671.59C1350.92,2671.01 1349.46,2663.66 1350.96,2655.19C1352.15,2648.51 1354.82,2643.11 1357.52,2641.42" style="fill:none;stroke:rgb(18,161,69);stroke-width:16.67px;"/>
+                    <g id="Handle-Split1" serif:id="Handle Split">
+                        <path d="M1413.23,2823L1420.01,2788.91" style="fill:none;stroke:rgb(18,161,69);stroke-width:16.67px;"/>
+                        <path d="M1425.81,2759.78L1435.52,2710.94" style="fill:none;stroke:rgb(18,161,69);stroke-width:16.67px;"/>
+                        <path d="M1442.21,2677.29L1446.66,2654.89" style="fill:none;stroke:rgb(18,161,69);stroke-width:16.67px;"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

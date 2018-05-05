@@ -2,11 +2,13 @@ html {
     box-sizing: border-box;
 }
 
+
 *,
 *::before,
 *::after {
     box-sizing: inherit;
 }
+
 
 html,
 body {
@@ -16,10 +18,13 @@ body {
     padding: 0;
 }
 
+
 body {
-    background: #ffffff url('../img/geometry2.png'); /* Background pattern from Subtle Patterns */
-    font-family: 'Coda', cursive;
+    background: #0a121a; /* Background pattern from Subtle Patterns */
+    font-family: 'VT323', sans-serif;
+    color: #0a121a;
 }
+
 
 .container {
     display: flex;
@@ -28,33 +33,29 @@ body {
     flex-direction: column;
 }
 
-h1 {
-    font-family: 'Open Sans', sans-serif;
-    font-weight: 300;
-}
 
 /*
  * Styles for the deck of cards
  */
 
+
 .deck {
-    width: 660px;
-    min-height: 680px;
-    background: linear-gradient(160deg, #02ccba 0%, #aa7ecd 100%);
-    padding: 32px;
-    border-radius: 10px;
-    box-shadow: 12px 15px 20px 0 rgba(46, 61, 73, 0.5);
+    width: 640px;
+    min-height: 640px;
+    padding: 16px;
+/*    box-shadow: 12px 15px 20px 0 rgba(46, 61, 73, 0.5);*/
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
     align-items: center;
-    margin: 0 0 3em;
+    margin: 0;
 }
+
 
 .deck .card {
     height: 125px;
     width: 125px;
-    background: #2e3d49;
+    background: #0a121a;
     font-size: 0;
     color: #ffffff;
     border-radius: 8px;
@@ -65,45 +66,196 @@ h1 {
     box-shadow: 5px 2px 20px 0 rgba(46, 61, 73, 0.5);
 }
 
+
 .deck .card.open {
     transform: rotateY(0);
-    background: #02b3e4;
+    background: #000;
     cursor: default;
 }
 
-.deck .card.show {
-    font-size: 33px;
+
+.deck .card-invert.open {
+    transform: rotateY(0);
+    background: #000;
+    cursor: default;
 }
+
 
 .deck .card.match {
     cursor: default;
-    background: #02ccba;
+    background: #000;
     font-size: 33px;
 }
+
+
+.deck .card .svg-img {
+    display: none;
+    width: 100px;
+    pointer-events: none;
+}
+
+
+.deck .card.open .svg-img,
+.deck .card.match .svg-img {
+    display: flex;
+}
+
 
 /*
  * Styles for the Score Panel
  */
 
+
 .score-panel {
-    text-align: left;
-    width: 345px;
-    margin-bottom: 10px;
+    text-align: center;
+    margin: 0 1em 0.2em;
+    display: flex;
+    font-size: 1.5em;
 }
 
-.score-panel .stars {
+
+.score-panel .stars,
+.mod-stars {
     margin: 0;
     padding: 0;
-    display: inline-block;
+    display: inline-flex;
     margin: 0 5px 0 0;
 }
 
-.score-panel .stars li {
+
+.score-panel .stars li,
+.mod-stars li {
     list-style: none;
     display: inline-block;
 }
 
+
 .score-panel .restart {
     float: right;
     cursor: pointer;
+}
+
+
+.modal {
+    display: none;
+    position: absolute;
+    z-index: 1;
+    padding-top: 140px;
+    left: 50%;
+    top: 0;
+    margin-left: -320px;
+    margin-top: 190px;
+    width: 640px;
+    height: 620px;
+    overflow: auto;
+    font-size: 1.5em;
+    background-color: #899e59
+}
+
+
+/* Modal Content */
+.modal-content {
+    background-color: #899e59;
+    color: #0a121a;
+    text-align: center;
+    margin: auto;
+    padding: 20px;
+/*    border: 1px solid #888;*/
+    width: 100%;
+}
+
+
+/* The Close Button */
+.close-modal {
+    color: #0a121a;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+
+.close-modal:hover,
+.close-modal:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+
+.modal-restart {
+    background-color: #899e59; /* Green */
+    border: 5px solid #0a121a;
+    color: #0a121a;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: 'VT323', sans-serif;
+    font-size: 2em;
+}
+
+
+.modal-restart:hover,
+.modal-restart:focus {
+    color: #899e59;
+    background-color: #0a121a
+}
+
+
+.rating {
+    display: inline;
+}
+
+
+/*Game Kid Styling */
+.handheld {
+    padding: 50px 25px;
+    background-color: #c2bebb;
+    border-radius: 25px;
+    border-bottom-right-radius: 150px;
+    margin: 20px 0;
+    font-size: 1.5em;
+}
+
+
+.branding {
+    margin: 0 0 10px;
+}
+
+
+.company {
+    font-family: 'Saira', sans-serif;
+    font-size: 1.5em;
+    letter-spacing: -0.05em;
+    color: #31228b;
+}
+
+
+.product {
+    font-family: 'Cabin', sans-serif;
+    font-size: 2em;
+    letter-spacing: -0.05em;
+    color: #31228b;
+}
+
+
+.screen {
+    background-color: #899e59;
+    border-width: 70px 110px;
+    border-style: solid;
+    border-color: #8f8d92;
+    border-radius: 25px;
+    border-bottom-right-radius: 125px;
+    padding: 16px;
+}
+
+
+.controls {
+    display: flex;
+    margin: 0 2em;
+}
+
+
+.flex-item {
+    flex: 1;
 }
