@@ -1,20 +1,20 @@
 # Memory Game Project
+Memory Game matching pairs of cards, built by Bryce Rairden, with a gaming theme.
+
 
 ## Table of Contents
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+* [Game Details](#game-details)
+* [Dependencies](#dependencies)
 
-## Instructions
+## Game Details
 
-The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+The project is a matching game consisting of 8 pairs of cards. The cards are hidden and must be clicked on to reveal their associated picture. If the two cards clicked match, they remain face up until the game is reset. If the pair of cards do not match, they are flipped back over, hiding their respective images. The game continues until all 8 pairs have been matched.
 
-To get started, open `js/app.js` and start building out the app's functionality
+The player will be judged on the number of turns they take to match all pairs, with less than 15 turn earning the full 3 stars, 15 - 24 moves earning 2 stars, and 25 and over earning 1 star. A timer is also included to inform the player how long they took to solve the problem.
 
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
+The game may be reset via the reset button at the bottom at any time, or via the Play Again! button on the winning screen.
 
-## Contributing
+## Dependencies
 
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
+Browser support for HTML5, CSS3, and Javascript with ES6.
