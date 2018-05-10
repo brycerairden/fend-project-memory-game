@@ -5,6 +5,7 @@ Memory Game matching pairs of cards, built by Bryce Rairden, with a gaming theme
 ## Table of Contents
 
 * [Game Details](#game-details)
+* [How to Play](#how-to-play)
 * [Dependencies](#dependencies)
 
 ## Game Details
@@ -15,6 +16,12 @@ The player will be judged on the number of turns they take to match all pairs, w
 
 The game may be reset via the reset button at the bottom at any time, or via the Play Again! button on the winning screen.
 
+## How to Play
+
+Click on any card to start the timer. Clicking on a second card will compare the two cards and increment the move counter by 1. Continue selecting cards until all 8 pairs have been matched with their counterparts, at which point you WIN! To reset the game, select the reset icon.
+
 ## Dependencies
 
 Browser support for HTML5, CSS3, and Javascript with ES6.
+Access to the font-awesome library via the Bootstrap CDN.
+Access to Google Fonts via GoogleAPIs for the following fonts: Cabin, VT323, Saira

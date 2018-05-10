@@ -103,7 +103,6 @@ function score() {
 		document.querySelectorAll(".modal-moves")[0].innerHTML = counter;
 		document.querySelectorAll(".modal-time")[0].innerHTML = `Your time was ${endMinutes} min ${endSeconds} sec.`;
 		const starsEarned = document.querySelectorAll(".stars")[0].outerHTML;
-		console.log(starsEarned);
 		document.querySelectorAll(".modal-stars")[0].innerHTML = starsEarned;
 	}
 }
@@ -130,6 +129,7 @@ function restartGame() {
 	timerStarted = false;
 	matches = 0;
 	modal.style.display = "none";
+	openCards = [];
 }
 
 restart.addEventListener("click", function() {
@@ -150,7 +150,6 @@ endMinutes;
 
 function timer() {
 	activeTimer = setInterval(function() {
-		console.log(seconds);
 		seconds++;
 		if (seconds === 60) {
 			minutes++;
